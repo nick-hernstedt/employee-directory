@@ -1,0 +1,47 @@
+.custom-nav {
+  background: rgba(109, 77, 235, 1);
+  background: -moz-linear-gradient(
+    left,
+    rgba(109, 77, 235, 1) 0%,
+    rgba(111, 111, 227, 1) 20%,
+    rgba(117, 189, 209, 1) 65%,
+    rgba(73, 165, 191, 1) 100%
+  );
+  background: -webkit-gradient(
+    left top,
+    right top,
+    color-stop(0%, rgba(109, 77, 235, 1)),
+    color-stop(20%, rgba(111, 111, 227, 1)),
+    color-stop(65%, rgba(117, 189, 209, 1)),
+    color-stop(100%, rgba(73, 165, 191, 1))
+  );
+  background: -webkit-linear-gradient(
+    left,
+    rgba(109, 77, 235, 1) 0%,
+    rgba(111, 111, 227, 1) 20%,
+    rgba(117, 189, 209, 1) 65%,
+    rgba(73, 165, 191, 1) 100%
+  );
+  background: -o-linear-gradient(
+    left,
+    rgba(109, 77, 235, 1) 0%,
+    rgba(111, 111, 227, 1) 20%,
+    rgba(117, 189, 209, 1) 65%,
+    rgba(73, 165, 191, 1) 100%
+  );
+  background: -ms-linear-gradient(
+    left,
+    rgba(109, 77, 235, 1) 0%,
+    rgba(111, 111, 227, 1) 20%,
+    rgba(117, 189, 209, 1) 65%,
+    rgba(73, 165, 191, 1) 100%
+  );
+  background: linear-gradient(
+    to right,
+    rgba(109, 77, 235, 1) 0%,
+    rgba(111, 111, 227, 1) 20%,
+    rgba(117, 189, 209, 1) 65%,
+    rgba(73, 165, 191, 1) 100%
+  );
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6d4deb', endColorstr='#49a5bf', GradientType=1 );
+}
